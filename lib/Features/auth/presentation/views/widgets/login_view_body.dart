@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:fruits_app/Features/auth/presentation/views/signup_view.dart';
 import 'package:fruits_app/core/classes/app_colors.dart';
 import 'package:fruits_app/core/classes/svg_images_handler.dart';
 import 'package:fruits_app/core/classes/text_styles.dart';
@@ -51,7 +52,12 @@ class LoginViewBody extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               GestureDetector(
-                onTap: () {},
+                onTap: () {
+                  Navigator.pushNamed(
+                    context,
+                    SignupView.routeName,
+                  );
+                },
                 child: Text(
                   "قم بإنشاء حساب",
                   textAlign: TextAlign.left,

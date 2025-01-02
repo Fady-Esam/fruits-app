@@ -4,6 +4,7 @@ import '../classes/text_styles.dart';
 
 AppBar buildAppBar(BuildContext context, {required String text}) {
   return AppBar(
+    automaticallyImplyLeading: false,
     actions: [
       IconButton(
         icon: Transform.rotate(
