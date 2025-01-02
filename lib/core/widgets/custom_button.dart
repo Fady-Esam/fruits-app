@@ -4,8 +4,12 @@ import '../classes/app_colors.dart';
 import '../classes/text_styles.dart';
 
 class CustomButton extends StatelessWidget {
-  const CustomButton({super.key, required this.onPressed, required this.text});
-  final Function() onPressed;
+  const CustomButton({
+    super.key,
+    required this.onPressed,
+    required this.text,
+  });
+  final void Function() onPressed;
   final String text;
   @override
   Widget build(BuildContext context) {
