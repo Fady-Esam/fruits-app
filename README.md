@@ -13,7 +13,7 @@ Currently under active development and debugging.
 - 🔄 Updates and improvements coming soon
 - 🔧 API integration in testing phase
 
-⏳ **This README will be updated as the project progresses.**
+⏳ *This README will be updated as the project progresses.*
 
 ---
 
@@ -66,4 +66,5 @@ Currently under active development and debugging.
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
 </a> 
 </h5>
-
+---
+⏳ *This README will be updated as the project progresses.*
