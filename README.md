@@ -13,10 +13,8 @@ Currently under active development and debugging.
 - 🔄 Updates and improvements coming soon
 - 🔧 API integration in testing phase
 
----
-## 🔄 Note
+⏳ *This README will be updated as the project progresses.*
 
-❗ *This README will be updated as the project progresses.*
 ---
 
 ## ✨ Features (Implemented)
@@ -69,7 +67,3 @@ Currently under active development and debugging.
 </a> 
 </h5>
 
-
----
-
-*This README will be updated as the project progresses.*
