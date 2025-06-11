@@ -13,6 +13,9 @@ Currently under active development and debugging.
 - 🔄 Updates and improvements coming soon
 - 🔧 API integration in testing phase
 
+---
+## 🔄 Note
+
 ❗ *This README will be updated as the project progresses.*
 ---
 
