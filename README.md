@@ -1,7 +1,7 @@
 # 🍎🍌🍉 Flutter Fruits App
 
-> A Flutter app for managing and exploring fruits, integrated with a custom RESTful API.  
-> Currently under active development and debugging.
+A Flutter app for managing and exploring fruits, integrated with a custom RESTful API.  
+Currently under active development and debugging.
 
 ---
 
