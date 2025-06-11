@@ -4,7 +4,9 @@ import '../../../../../core/classes/app_colors.dart';
 import '../../../../../core/classes/text_styles.dart';
 
 class TermsAndConditions extends StatefulWidget {
-  const TermsAndConditions({super.key});
+  const TermsAndConditions({super.key, required this.onChangedFunc});
+
+  final void Function(bool? val) onChangedFunc;
 
   @override
   State<TermsAndConditions> createState() => _TermsAndConditionsState();
@@ -64,6 +66,7 @@ class _TermsAndConditionsState extends State<TermsAndConditions> {
           ),
           value: isChecked,
           onChanged: (value) {
+            widget.onChangedFunc(value);
             setState(() {
               isChecked = value ?? false;
             });
