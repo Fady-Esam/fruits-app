@@ -17,7 +17,7 @@ Currently under active development and debugging.
 
 ---
 
-## ✨ Features (Implemented so far)
+## ✨ Features (Implemented So Far)
 
 - 🔐 Secure authentication (Login / Signup)  
 - 🚀 Splash Screen with smooth transition  
@@ -39,7 +39,7 @@ Currently under active development and debugging.
 
 ---
 
-## 📦 Packages Used (so far)
+## 📦 Packages Used (So Far)
 
 - 📐 `svg_flutter`  
 - ⚫ `dots_indicator`  
