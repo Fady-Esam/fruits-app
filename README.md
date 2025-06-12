@@ -17,7 +17,7 @@ Currently under active development and debugging.
 
 ---
 
-## ✨ Features (Implemented)
+## ✨ Features (Implemented so far)
 
 - 🔐 Secure authentication (Login / Signup)  
 - 🚀 Splash Screen with smooth transition  
