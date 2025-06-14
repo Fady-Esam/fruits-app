@@ -19,7 +19,7 @@ Currently under active development and debugging.
 
 ## ✨ Features (Implemented So Far)
 
-- 🔐 Secure authentication (Login / Signup)  
+- 🔐 Secure authentication (Login / Signup / Logout)  
 - 🚀 Splash Screen with smooth transition  
 - 🎯 Onboarding Flow for first-time users  
 - 🏠 Home Screen with clean layout and navigation  
