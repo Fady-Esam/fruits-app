@@ -1,6 +1,7 @@
 # 🍎🍌🍉 Flutter Fruits App
 
 A Flutter app for managing and exploring fruits, integrated with a custom RESTful API.  
+Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 Currently under active development and debugging.
 
 ---
@@ -24,6 +25,8 @@ Currently under active development and debugging.
 - 🎯 Onboarding Flow for first-time users  
 - 🏠 Home Screen with clean layout and navigation  
 - 🥇 Display of Best-Selling Fruits
+- 🗂️ MVVM Architecture with a clear separation of concerns between Model, View, and ViewModel layers for scalability and maintainability    
+- 🧠 Robust State Management built with the BLoC pattern for predictable and scalable UI logic  
 
 ---
 
