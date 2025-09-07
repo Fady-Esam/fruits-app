@@ -1,7 +1,7 @@
 # 🍎🍌🍉 Flutter Fruits App
 
 A **Flutter** app for managing and exploring fruits, integrated with a custom **RESTful API**.  
-Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.  
+Built with **Clean Architecture** for scalability and maintainability and **BLoC** Pattern for predictable and scalable UI logic.
 *Currently under active development and debugging.*
 
 ---
