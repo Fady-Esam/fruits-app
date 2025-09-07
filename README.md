@@ -18,7 +18,7 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 
 ---
 
-## ✨ Features (Implemented So Far)
+## ✨ Key Features (Implemented So Far)
 
 - 🔐 Secure authentication (Login / Signup / Logout)  
 - 🚀 Splash Screen with smooth transition  
